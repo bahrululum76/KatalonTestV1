@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel Pop up Send Transaction for Approval</name>
+   <tag></tag>
+   <elementGuidId>c290ad96-8d32-40b0-8a56-213372c97d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='otp-form']/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b709f45-ff4e-489f-8334-bd6eed04d119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>2e827805-34d5-4b15-8dd8-092b2831d778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otp-form&quot;)/div[@class=&quot;flex items-center justify-end space-x-4&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-grey-40 bg-neutral-70 hover:bg-grey-80 active:text-white active:bg-primary-60 disabled:text-neutral-40/50 disabled:bg-neutral-70&quot;]/span[1]</value>
+      <webElementGuid>2f4e8074-3e86-4d6c-8ce1-41d8421763ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='otp-form']/div[2]/button/span</value>
+      <webElementGuid>6f2ab990-f221-4f73-9944-4f6fb9fcff3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[1]</value>
+      <webElementGuid>8533c39b-7745-43bb-81c4-b5a117d9eebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[1]/following::span[2]</value>
+      <webElementGuid>e9df39bc-b4e5-40f2-9f57-07fd85f5d075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f0bedd6-f366-444e-a2cf-edf321565fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button/span</value>
+      <webElementGuid>f5dab40a-c103-4cb8-9ff2-00b015b17ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>5a2eebd2-839d-471b-9718-b2a870fbd3ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

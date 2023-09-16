@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputFile</name>
+   <tag></tag>
+   <elementGuidId>9af176a5-be02-4252-ab27-2c9486a2e5e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'input']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/div[2]/div[2]/div[18]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>28649226-cf2a-410b-a471-5b56f93dae03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e50013d2-787b-40a6-b8c3-a5669f599094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;headlessui-dialog-:r25:&quot;]/div[2]/div[2]/div[20]/input</value>
+      <webElementGuid>b906b0b2-c62e-4811-a0d7-679eb617a05d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

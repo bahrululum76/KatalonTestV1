@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recalculate</name>
+   <tag></tag>
+   <elementGuidId>962c86e3-f748-4e02-b7dc-ddc99cb070a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-xs.font-semibold.text-primary-60</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div[2]/div/div/div[4]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fcb7441-cf59-4fca-a620-93b242b4341f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs font-semibold text-primary-60</value>
+      <webElementGuid>a5e690f9-5eaf-4d0a-9763-4981fecf3cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recalculate</value>
+      <webElementGuid>a3f9bc0c-f11c-4c36-95c8-3a0d6086d1b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;grid grid-rows-1 gap-4 mb-24&quot;]/div[@class=&quot;grid grid-cols-12 gap-2 mt-2&quot;]/div[@class=&quot;col-span-5&quot;]/div[@class=&quot;border border-white bg-white w-full h-full p-5 rounded-lg&quot;]/div[@class=&quot;flex flex-col space-y-5 h-full&quot;]/div[@class=&quot;flex flex-col space-y-1 h-full&quot;]/div[@class=&quot;flex space-x-1 pt-2 mr-4 cursor-pointer justify-end items-end&quot;]/span[@class=&quot;text-xs font-semibold text-primary-60&quot;]</value>
+      <webElementGuid>b0092872-2353-4ade-8156-870c6a46f37f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div[2]/div/div/div[4]/div[2]/span</value>
+      <webElementGuid>a22f1942-935b-4418-9bc7-391e806eb5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[3]/following::span[1]</value>
+      <webElementGuid>ecd94124-305c-41d0-bafc-e9cf4f914720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Received Amount'])[1]/following::span[4]</value>
+      <webElementGuid>57b742ea-b2de-48b4-b5ff-322871097cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[1]</value>
+      <webElementGuid>eeb267c1-09ca-494a-8eaf-c07d303ba168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[2]</value>
+      <webElementGuid>dac6cbf8-b016-4d3b-9e62-978abad6b8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recalculate']/parent::*</value>
+      <webElementGuid>105384da-5743-4902-bfe9-d06e38f9df48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span</value>
+      <webElementGuid>a91ba13a-0b37-4111-8a1a-f5c07e1fcfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recalculate' or . = 'Recalculate')]</value>
+      <webElementGuid>09ebd76d-62a1-45ff-97ea-dcda01c30914</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

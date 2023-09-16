@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CSVlog</name>
+   <tag></tag>
+   <elementGuidId>84d14f83-f579-4854-b85d-fca1c4d0abaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/section[3]/div/div[2]/div[1]/div[2]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>418bbff3-8a23-4e56-8610-a8304005d2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded w-full cursor-pointer h-6 !border-secondary-60 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80 focus:right-1 focus:ring-success-90 focus:ring-offset-2</value>
+      <webElementGuid>f73d12f1-bf9c-4cf5-9dec-9ac8535d70b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>20b0bb86-ded5-4c71-96c2-17a398ee8e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CSV</value>
+      <webElementGuid>ee9bca07-15b1-4b90-9f1a-84b8a1b8b53f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-items-:r18:&quot;)/button[@class=&quot;px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded w-full cursor-pointer h-6 !border-secondary-60 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80 focus:right-1 focus:ring-success-90 focus:ring-offset-2&quot;]</value>
+      <webElementGuid>871de5a3-979e-4420-9b51-7b64bbc2843f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-menu-items-:r18:']/button[3]</value>
+      <webElementGuid>32b7bdb5-1942-42d1-ade6-d8f6905a2e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel (.xls)'])[1]/following::button[1]</value>
+      <webElementGuid>ec1a3ff1-6f63-4f30-bb6e-e4bbbdeb657e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[1]/following::button[2]</value>
+      <webElementGuid>cc570b6c-bb21-447a-a311-5bbce1d3b9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::button[1]</value>
+      <webElementGuid>018181ef-2135-480e-b7e3-cf00cb1de9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/div/div[2]/div/button[3]</value>
+      <webElementGuid>b04687d2-4e0d-4c0b-9d0b-fb9c3b2f45b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'CSV' or . = 'CSV')]</value>
+      <webElementGuid>70be4242-4068-47fd-a947-786428dbf05a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

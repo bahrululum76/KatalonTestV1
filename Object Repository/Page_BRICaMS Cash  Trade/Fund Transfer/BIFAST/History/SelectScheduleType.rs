@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectScheduleType</name>
+   <tag></tag>
+   <elementGuidId>d94f5cf0-66e7-4b27-bca6-a0fdaba8ebf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'react-select-18-input']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/form/div/div[1]/div[9]/div/div/div/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-18-input</value>
+      <webElementGuid>1be0bd8f-6166-473a-962a-0c8b6e7d6faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cf3029b6-152c-43ed-91dc-81470a182058</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

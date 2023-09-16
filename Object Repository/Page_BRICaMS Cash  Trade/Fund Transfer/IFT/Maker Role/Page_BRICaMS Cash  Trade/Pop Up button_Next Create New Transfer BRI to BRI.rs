@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pop Up button_Next Create New Transfer BRI to BRI</name>
+   <tag></tag>
+   <elementGuidId>3aa37fc3-c489-4a22-bbc7-019f4491303e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>780e06be-a0ad-4b56-8cbb-7512980cd38f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50</value>
+      <webElementGuid>e3f9b06c-de0a-47e8-b1eb-612617d2ee10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b451c2bc-13c2-4370-b165-e2954a8f2e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>d1488089-e72d-4ba8-9c14-49ba6c374e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r13:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-max opacity-100 scale-100&quot;]/div[@class=&quot;flex items-center justify-end space-x-2 border-t border-neutral-70 pt-4&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50&quot;]</value>
+      <webElementGuid>1751f5b5-2d6e-4f0c-a805-0a3695563d43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>772a0bdb-c0ae-4d50-8af8-2b5cfdebae3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r13:']/div[2]/div[4]/button[2]</value>
+      <webElementGuid>16eee8af-0261-41b8-bc78-7716812040cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>21d8e424-cab9-45b5-a17b-6e1434f9c9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Transfer'])[1]/following::button[2]</value>
+      <webElementGuid>2beb2153-3d54-46c5-95df-cdeb7c434d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button[2]</value>
+      <webElementGuid>4e44a029-8608-467f-8234-00450e6e34a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>0c47d5fc-f636-4d99-9677-63265bd847cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

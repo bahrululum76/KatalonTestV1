@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "975EB6FA4DC95EF8336C4E9E0E829CF8",
+  "keywordClasses": [
+    {
+      "name": "liquidity.CashPoolingStepDef",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

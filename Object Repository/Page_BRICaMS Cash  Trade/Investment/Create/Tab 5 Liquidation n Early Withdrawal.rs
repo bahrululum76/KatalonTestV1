@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab 5 Liquidation n Early Withdrawal</name>
+   <tag></tag>
+   <elementGuidId>bf674aaa-46ba-4bae-99be-49375ca90a43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.cursor-pointer.items-start.py-2.text-secondary-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/div[2]/div[1]/div[1]/span[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>175f6677-c42c-4662-8a9f-c193f284e2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex cursor-pointer items-start py-2 text-secondary-50</value>
+      <webElementGuid>14ca21ca-f1ce-43b1-be65-548b7776e7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5.Liquidation &amp; Early Withdrawal</value>
+      <webElementGuid>bc0b9ba9-de1a-49fe-8c40-9ebc2818794b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r19:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[80%] h-[85%] bg-white p-8 pt-16 pl-0 shadow-md rounded-lg text-sm flex flex-col opacity-100 scale-100&quot;]/div[@class=&quot;h-[85%] pb-4 flex flex-row divide-x-[1px] divide-neutral-60&quot;]/div[@class=&quot;flex w-1/5 flex-col&quot;]/span[@class=&quot;border-l-4 border-secondary-50&quot;]/div[@class=&quot;flex cursor-pointer items-start py-2 text-secondary-50&quot;]</value>
+      <webElementGuid>111fec68-29b1-47cf-ab92-cc52ab5b90f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r19:']/div[2]/div/div/span[5]/div</value>
+      <webElementGuid>0c9e751f-a99d-4c1e-aff9-0f65133c075b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest Rate &amp; Instruction'])[1]/following::div[1]</value>
+      <webElementGuid>8f0ab777-059a-424e-a3b8-ac02a78031f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foreign Currency'])[1]/following::div[2]</value>
+      <webElementGuid>661a23c1-1375-49dc-968e-1914623d27b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; Conditions'])[1]/preceding::div[1]</value>
+      <webElementGuid>856b0f02-4064-4263-89a9-dc062b7701c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div</value>
+      <webElementGuid>302da043-e522-45ff-89b5-5d0c0327377a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '5.Liquidation &amp; Early Withdrawal' or . = '5.Liquidation &amp; Early Withdrawal')]</value>
+      <webElementGuid>414151ef-d47b-4694-8f88-8e9365cb296a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

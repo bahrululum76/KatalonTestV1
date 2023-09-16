@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close setelah approve</name>
+   <tag></tag>
+   <elementGuidId>97fce731-980f-4747-a14c-c0b6d722b8a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Close' or . = 'Close')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ee8418b-05c3-4728-a4bd-7640531adbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50 flex-1</value>
+      <webElementGuid>f0a57311-67a3-46a8-bbe3-0e23013531a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d401eb79-0d23-4342-8434-068da5355157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>386c14dd-b3a3-4e40-b71e-51d6dab0a34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r2v:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-[240px] h-[440px] opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col justify-between items-center h-full pt-8&quot;]/div[@class=&quot;flex flex-col text-center w-full&quot;]/div[@class=&quot;flex justify-end space-x-4 w-full&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50 flex-1&quot;]</value>
+      <webElementGuid>babd50ba-6f78-43e4-a52b-e7dd957e34d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r2v:']/div[2]/div/div[4]/div/button</value>
+      <webElementGuid>34525a0d-d536-4f8b-b92b-ecd367767cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[2]</value>
+      <webElementGuid>1b617174-8b83-48b4-a83d-3090df998cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]/div/button</value>
+      <webElementGuid>7b5e0716-48fa-41a4-9b88-3c11e4b02615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>ac3c67a8-28ba-450c-9fb7-ab8a58ac47a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

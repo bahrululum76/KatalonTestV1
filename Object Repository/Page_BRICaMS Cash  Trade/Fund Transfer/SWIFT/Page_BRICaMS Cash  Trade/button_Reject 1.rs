@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reject 1</name>
+   <tag></tag>
+   <elementGuidId>f1a3e032-0f9e-4702-96e3-974e40812ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[2]/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a25c3a40-397c-4188-a68f-754ef68d2256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-danger-60 hover:bg-danger-50 active:bg-danger-40 disabled:bg-danger-60/50</value>
+      <webElementGuid>0ff20bcf-d026-437c-8f0d-0f886c5e239b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reject</value>
+      <webElementGuid>ac0c6afc-a9a9-4bfa-b30d-cd37a8380009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative grid grid-cols-1 gap-1&quot;]/div[@class=&quot;flex w-full flex-row justify-between&quot;]/div[@class=&quot;flex space-x-3&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-danger-60 hover:bg-danger-50 active:bg-danger-40 disabled:bg-danger-60/50&quot;]</value>
+      <webElementGuid>cd0026fb-10ca-4e9c-b9fd-e3f837ace1f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>a897e3d0-d1fa-40cc-aa8e-1f8cbd6125ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send for Rework'])[1]/following::button[1]</value>
+      <webElementGuid>f154887e-df02-4701-8bdf-55ca08ee7367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::button[2]</value>
+      <webElementGuid>b34530e7-229c-44d3-8258-85747eecd07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/preceding::button[1]</value>
+      <webElementGuid>ed8c81b6-3c2a-4e93-81eb-fdde6d41a284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>caec1df1-d407-4558-aa3d-ac8189a84b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>fdf3c147-c01a-441f-9b67-18fa0528fd08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

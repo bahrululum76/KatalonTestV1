@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel Pop up Approve</name>
+   <tag></tag>
+   <elementGuidId>8f94e6cb-cb55-470b-89e0-28dc8ec6bb51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='otp-form']/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19c845eb-133a-4104-8c02-97a2e4c22011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>6ac51198-5e0d-40e7-a8b4-6d0033f6a1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otp-form&quot;)/div[@class=&quot;flex items-center justify-end space-x-4&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-grey-40 bg-neutral-70 hover:bg-grey-80 active:text-white active:bg-primary-60 disabled:text-neutral-40/50 disabled:bg-neutral-70&quot;]/span[1]</value>
+      <webElementGuid>df163d8e-3cb2-48ea-8746-44bbad23587e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='otp-form']/div[2]/button/span</value>
+      <webElementGuid>213c6ee3-7cbf-4f2b-af48-af17e5d7d974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Immediate'])[2]/following::span[1]</value>
+      <webElementGuid>26e8fa60-5557-4bfd-8236-171bc1961394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Type'])[2]/following::span[2]</value>
+      <webElementGuid>31ef172d-3035-43ce-b325-c21554c412c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve Task'])[1]/preceding::span[1]</value>
+      <webElementGuid>32e25207-a7f0-4048-b32d-dd026dc299bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>7a488451-9bac-421c-a61d-b414bffeec8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button/span</value>
+      <webElementGuid>31d67d26-494f-4655-b793-de797e3773da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>b83d2d99-602d-45b3-8529-64d6e1a6673b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

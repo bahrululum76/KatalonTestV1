@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Transfer Amount_Immediate</name>
+   <tag></tag>
+   <elementGuidId>d683da5b-52e4-440c-a397-0b1590c3f905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;transactionScheduleType&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/form/div/div[1]/div[3]/div[4]/div/div[2]/div[1]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'radio' and @name = 'transactionScheduleType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32e0cb39-8b41-4ed2-89a2-06f63f7af7ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>895886d3-8d15-4d3f-9eb0-be6cb4360372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>transactionScheduleType</value>
+      <webElementGuid>fd0635f7-95ab-4353-9c58-6ff0da2ecd0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;space-y-6&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-3 md:grid-cols-6 xl:grid-cols-5  gap-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md flex flex-col col-span-3 space-y-4&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex items-center space-x-3 py-1.5&quot;]/input[1]</value>
+      <webElementGuid>39db3f51-0258-49e6-9d4b-fdec991153ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='transactionScheduleType']</value>
+      <webElementGuid>1fc080a4-5711-4606-a80f-78a76e92578d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/form/div/div/div[3]/div/input</value>
+      <webElementGuid>38f17bca-4758-4a7e-8f32-246ed6e85835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>1b53f659-6963-4a7b-addf-c659603f5b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'transactionScheduleType']</value>
+      <webElementGuid>def820e4-158e-4b8b-9398-e6fd95b6d813</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

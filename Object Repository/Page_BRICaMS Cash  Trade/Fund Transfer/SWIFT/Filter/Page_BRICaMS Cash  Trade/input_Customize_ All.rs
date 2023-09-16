@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Customize_ All</name>
+   <tag></tag>
+   <elementGuidId>afb54889-ad99-465b-be40-6f7495730cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1b4957f8-00bb-4b70-be9a-afcdf9de885e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>3319cfdf-cb2b-425e-9b80-0a60171f1454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60 </value>
+      <webElementGuid>0e04af52-b60c-458f-8671-82c283d3054c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Toggle All Columns Hidden</value>
+      <webElementGuid>8b4ed052-9519-4b99-abe3-0154cd9ecab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-:r11:&quot;)/div[@class=&quot;px-4 pb-2 border-b border-b-neutral-70&quot;]/label[@class=&quot;inline-flex flex-start cursor-pointer&quot;]/input[@class=&quot;rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60&quot;]</value>
+      <webElementGuid>ed15b763-5c6e-4a44-8502-b6deaac5d65e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>c15fc31c-bd29-49f3-884a-3f15e1faf0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-:r11:']/div/label/input</value>
+      <webElementGuid>47ed3ab7-6386-4ffd-acdb-5e99fce4f9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/input</value>
+      <webElementGuid>7f1b1469-f4b2-4e71-b46b-9c905346a77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @title = 'Toggle All Columns Hidden']</value>
+      <webElementGuid>663d3652-fa0d-4831-a683-4236b00759f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

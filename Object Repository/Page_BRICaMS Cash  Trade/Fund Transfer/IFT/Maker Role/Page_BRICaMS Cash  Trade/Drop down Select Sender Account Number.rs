@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Drop down Select Sender Account Number</name>
+   <tag></tag>
+   <elementGuidId>76df0539-f2e3-4af4-b366-8cde071bd2d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/form/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40f8ebe6-bad1-4bce-a3b1-f1fae6777cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>7af1d008-183e-46d0-b3e0-b9609ddc7004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;space-y-6&quot;]/div[2]/form[1]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md flex flex-col divide-y divide-[#E0E0E0]&quot;]/div[@class=&quot;w-full space-y-4 py-3.5 2xl:w-2/3&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex w-full space-x-4&quot;]/div[@class=&quot;react-select__container w-full css-b62m3t-container&quot;]/div[@class=&quot;react-select__control css-1s2u09g-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>f0723c2c-276b-4946-8ad7-007cf19c0377</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/form/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>0dc956f5-8baa-488f-a8ba-e58d1f2df5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Sender Account Number'])[1]/following::div[1]</value>
+      <webElementGuid>15cfdfde-d34b-4869-b0fa-dd063132316c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Account Number'])[1]/following::div[6]</value>
+      <webElementGuid>e0a1ef2f-f944-467a-b6bf-b0ff6940e94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check'])[1]/preceding::div[1]</value>
+      <webElementGuid>7261fbfe-6929-4d88-a7f1-c0ca189dff31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='beneficiary data'])[1]/preceding::div[1]</value>
+      <webElementGuid>772607e8-7772-4b74-9c19-3edba75129c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>3b7e9b59-7c71-4fac-92df-05612e4bc0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

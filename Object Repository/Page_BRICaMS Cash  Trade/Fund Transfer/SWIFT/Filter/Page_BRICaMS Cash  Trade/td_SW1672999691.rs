@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SW1672999691</name>
+   <tag></tag>
+   <elementGuidId>9b33df48-f639-41c6-b244-9b9afb426a96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div[2]/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'SW1672999691' or . = 'SW1672999691')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>45226a07-6be9-470c-be67-b4da342fb03d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-3 px-4 text-[0.8125rem] font-normal leading-4 border-0 border-l border-b border-neutral-70 first:border-l-0 align-top text-ellipsis overflow-hidden whitespace-nowrap align-middle bg-white relative </value>
+      <webElementGuid>849c8f27-d8ca-4f7a-9bed-01b0b4a84683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>b6f74128-33a2-4cf7-a5a2-0507ebf09045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SW1672999691</value>
+      <webElementGuid>e17837fb-24ff-48df-9bb7-8416728e1c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/div[@class=&quot;overflow-x-auto border border-neutral-70&quot;]/table[@class=&quot;w-full table-fixed border-separate&quot;]/tbody[@class=&quot;relative table-fixed&quot;]/tr[@class=&quot;odd:bg-white even:bg-primary-99&quot;]/td[@class=&quot;py-3 px-4 text-[0.8125rem] font-normal leading-4 border-0 border-l border-b border-neutral-70 first:border-l-0 align-top text-ellipsis overflow-hidden whitespace-nowrap align-middle bg-white relative&quot;]</value>
+      <webElementGuid>65718209-96bd-4b46-bb23-0297217b9e36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>b80b0c41-8fad-4776-9f50-72247a8284a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[3]</value>
+      <webElementGuid>fea2b25b-3b79-4920-8e8d-2c86e47cf5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::td[3]</value>
+      <webElementGuid>2b14c6c2-4e83-4b77-8561-8b12e5c27786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HERRY MUJIYONO'])[1]/preceding::td[1]</value>
+      <webElementGuid>3c3a5e60-4f33-441b-bbda-e3165de6b8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>d638fa85-bc29-405b-a099-bc3cbf2e996b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'SW1672999691' or . = 'SW1672999691')]</value>
+      <webElementGuid>b5286020-926c-4db7-842f-185b99dbf6a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

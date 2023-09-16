@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select</name>
+   <tag></tag>
+   <elementGuidId>ec01a32d-0e01-4037-82ac-5fd691fbf01e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.inline-block.w-full > div.relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div/div/div/div[7]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b6e20b6-5cb0-43a8-990e-2202e983f214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative</value>
+      <webElementGuid>ec54467a-a233-45fb-b17c-a3c0e86a4aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>3c1ebd04-3a43-4127-bce8-49e7645a009d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;grid grid-rows-1 gap-4 mb-24&quot;]/div[@class=&quot;grid grid-cols-12 gap-2 mt-2&quot;]/div[@class=&quot;col-span-7&quot;]/div[@class=&quot;border border-white bg-white w-full h-full p-5 rounded-lg&quot;]/div[@class=&quot;flex flex-col space-y-5&quot;]/div[@class=&quot;relative inline-block w-full&quot;]/div[@class=&quot;relative&quot;]</value>
+      <webElementGuid>b37cd0cb-a165-40a7-9759-a2c191149378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div/div/div/div[7]/div</value>
+      <webElementGuid>84b7ad04-6a03-48ea-b6f5-912181e1de19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select transfer route'])[1]/following::div[1]</value>
+      <webElementGuid>00fa3b0c-b09f-46a0-8662-fa7fa3173d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[2]/following::div[2]</value>
+      <webElementGuid>899823be-a679-4a16-8d4b-a9d273585e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSACTION SCHEDULE'])[1]/preceding::div[8]</value>
+      <webElementGuid>43e9ea1a-b906-42e4-a489-66a9ae64f21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>091984aa-da30-4843-b7b1-cb7f50d87913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
+      <webElementGuid>b21a5575-92df-437f-a1e9-baf288017b6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

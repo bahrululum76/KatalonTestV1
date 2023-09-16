@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input date created</name>
+   <tag></tag>
+   <elementGuidId>09f947ee-233d-4b38-8533-7f09d1cb8182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.w-full.border.border-grey-80.p-1.px-2.text-sm.shadow-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div[1]/div[7]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c092f7bf-f48e-4cdf-8e58-66953f1db930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>caa23c59-89fc-432f-96ee-7c232f8ffc93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full border border-grey-80 p-1 px-2 text-sm shadow-sm</value>
+      <webElementGuid>7dab739b-a29e-4a56-b71d-2f073705399e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/form[1]/div[@class=&quot;bg-primary-99 rounded border border-grey-80 p-4 mb-6&quot;]/div[@class=&quot;grid grid-cols-2 gap-4 md:grid-cols-4&quot;]/div[7]/div[@class=&quot;react-datepicker-wrapper w-full&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;w-full border border-grey-80 p-1 px-2 text-sm shadow-sm&quot;]</value>
+      <webElementGuid>3ceab799-f95c-4f07-bc13-786d6101c2bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>fc45df80-ab99-48bc-8462-d1932232dcac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div/div[7]/div/div/input</value>
+      <webElementGuid>d9b70dc6-efba-4ca8-90e4-0ec418f13ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/input</value>
+      <webElementGuid>0ee0a1b6-db43-4892-9254-42b34c7d0a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>4b2941d9-1c96-4010-9595-d4bb4f4c84a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

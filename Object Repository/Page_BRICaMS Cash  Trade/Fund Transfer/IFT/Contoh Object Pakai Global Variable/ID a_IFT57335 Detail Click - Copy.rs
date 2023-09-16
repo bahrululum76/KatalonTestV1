@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ID a_IFT57335 Detail Click - Copy</name>
+   <tag></tag>
+   <elementGuidId>51b3e850-3a54-4461-b2e5-333950e193db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'${GlobalVariable.taskId}')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14a6d357-a9f7-4f5b-ae9b-ce7120a557ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/internal-transfer/view/57335</value>
+      <webElementGuid>a54427d4-9720-4bdb-b104-d5e2200ab186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IFT57335</value>
+      <webElementGuid>361f0ea4-42c6-47a6-aff1-9a8dbd43bb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/div[@class=&quot;overflow-x-auto border border-neutral-70&quot;]/table[@class=&quot;w-full table-fixed border-separate&quot;]/tbody[@class=&quot;relative table-fixed&quot;]/tr[@class=&quot;odd:bg-white even:bg-primary-99&quot;]/td[@class=&quot;py-3 px-4 text-[0.8125rem] font-normal leading-4 border-0 border-l border-b border-neutral-70 first:border-l-0 align-top text-ellipsis overflow-hidden whitespace-nowrap align-middle bg-white relative&quot;]/a[1]</value>
+      <webElementGuid>af367b5c-c172-4fe3-8166-6daa4d255fde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div[2]/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>fe3f2328-a53d-412b-896b-df7fc4aeaf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'IFT57336')])[2]</value>
+      <webElementGuid>5e7be803-d85b-4ced-a26f-da80374a0e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::a[1]</value>
+      <webElementGuid>b6a6f4ed-121b-416f-a735-03d2aeb3d59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[1]</value>
+      <webElementGuid>facf0544-122d-4271-b077-ba86f767c14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDY YUSUF SILABAN'])[1]/preceding::a[1]</value>
+      <webElementGuid>56fe4a01-e81d-4c66-a5cc-1c40054b2431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELLXXXXXXXROH'])[1]/preceding::a[1]</value>
+      <webElementGuid>d9ae041c-6c9d-419d-bfb3-22d4c04796df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/internal-transfer/view/57335')])[2]</value>
+      <webElementGuid>293dbc53-caf2-4f5c-855b-05b08da2d98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>1730a7a6-6a02-41d8-9f21-4832bf2bdc63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/internal-transfer/view/57335' and (text() = 'IFT57335' or . = 'IFT57335')]</value>
+      <webElementGuid>faf2d63f-309a-46f5-82e3-3a1a684d08d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

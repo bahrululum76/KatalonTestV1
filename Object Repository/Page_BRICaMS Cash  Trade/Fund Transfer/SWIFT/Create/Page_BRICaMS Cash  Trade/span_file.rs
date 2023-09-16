@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_file</name>
+   <tag></tag>
+   <elementGuidId>0aed9710-7ecd-4f7c-ba72-11263edddf78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;headlessui-dialog-:r2e:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-2/5 opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col space-y-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;text-xs font-normal&quot;][count(. | //span[@class = 'text-xs font-normal']) = count(//span[@class = 'text-xs font-normal'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-xs.font-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd8b588b-0ac1-4087-a5e8-9039119e67b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs font-normal</value>
+      <webElementGuid>760956c9-65e1-4f45-89a8-2eb095b9d20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rose.pdf</value>
+      <webElementGuid>70b57046-371b-45c9-b3b2-acbc867f533a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r2e:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-2/5 opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col space-y-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;text-xs font-normal&quot;]</value>
+      <webElementGuid>4d07e8ec-2e21-4e04-a3c6-10f6b73b48ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r2e:']/div[2]/div[2]/div[20]/div[2]/div/span</value>
+      <webElementGuid>dc2d13f6-02b3-44a9-b249-da1576f92de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::span[2]</value>
+      <webElementGuid>337c562b-7da8-4eb4-938a-88b507988fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse file'])[1]/preceding::span[1]</value>
+      <webElementGuid>e1cce398-5a29-4800-aba4-837c4378d297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum upload size: 25 MB'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef996746-af27-4d08-852f-d7ee033ff9c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rose.pdf']/parent::*</value>
+      <webElementGuid>4218e884-b79d-404d-8424-527d7f5270c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/div[2]/div/span</value>
+      <webElementGuid>c6c04286-e1ac-4f8c-b39c-d1c38ec1384c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rose.pdf' or . = 'Rose.pdf')]</value>
+      <webElementGuid>91f85c8f-671e-40ea-a64a-431f16edae10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

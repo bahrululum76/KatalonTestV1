@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Others Click Box</name>
+   <tag></tag>
+   <elementGuidId>a0329f6d-2da7-44ca-823e-a833f9dead0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32c09c3b-9605-4a0e-adf8-ddb138c9c6b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>b5fceb90-db10-4f69-b6c4-85811e70a0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60 mt-0</value>
+      <webElementGuid>6a3bce19-d028-4916-bb43-de8a8e481eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r4i:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-10 overflow-hidden rounded-md opacity-100 scale-100&quot;]/div[@class=&quot;flex h-full flex-col justify-between&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;flex mb-2&quot;]/div[@class=&quot;w-3/4&quot;]/div[@class=&quot;mb-1&quot;]/label[@class=&quot;inline-flex flex-start cursor-pointer&quot;]/input[@class=&quot;rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60 mt-0&quot;]</value>
+      <webElementGuid>e60c588a-3d50-441b-bfdd-2896d250db44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[4]</value>
+      <webElementGuid>aaf264e8-da05-467b-b74a-72f6166354e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r4i:']/div[2]/div[2]/div[2]/div/div[2]/div[4]/label/input</value>
+      <webElementGuid>17a52f11-1ab1-4e87-9592-2c3a2bc79c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/input</value>
+      <webElementGuid>361e120e-3cc8-430a-9c94-d5e199eefbe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>b39ffc52-623d-4114-9d94-366be3fbb430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

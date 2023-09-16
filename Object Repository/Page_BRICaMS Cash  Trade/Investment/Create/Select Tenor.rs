@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Tenor</name>
+   <tag></tag>
+   <elementGuidId>3b8f9b5a-b750-49ec-b2a9-454fe87ebd7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__value-container.css-1d8n9bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div/div[4]/div[1]/div/div/div[9]/div/div/div/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62501a0c-97b0-449c-b86f-2dcf34f167a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-1d8n9bt</value>
+      <webElementGuid>35f02faf-a293-4cef-92d8-0a91609e8f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>538ed2ff-5aea-4fcd-a4d2-823207df8616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;mb-24 grid grid-rows-1 gap-5&quot;]/div[@class=&quot;mt-2 grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-12 md:col-span-7&quot;]/div[@class=&quot;h-full w-full border border-white bg-white p-5&quot;]/div[@class=&quot;flex flex-col space-y-5&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex space-x-3&quot;]/div[@class=&quot;relative inline-block w-1/2&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-select__container css-b62m3t-container&quot;]/div[@class=&quot;react-select__control css-1s2u09g-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]</value>
+      <webElementGuid>a6c0f7cc-48e4-4fe7-bc02-507177744c05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[4]/div/div/div/div[9]/div/div/div/div/div/div</value>
+      <webElementGuid>f124e42c-de1d-434a-8c2b-adfb4a9a0954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenor'])[1]/following::div[4]</value>
+      <webElementGuid>7e9ea793-6b41-4650-8cc4-a7372589e0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time deposit tenor is not editable in the time deposit account management.'])[1]/following::div[9]</value>
+      <webElementGuid>e2542b05-bdfd-4d21-b78d-ef49c0757688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Summary'])[1]/preceding::div[3]</value>
+      <webElementGuid>ba451bee-dc93-44ff-968d-e0928074e620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div/div/div</value>
+      <webElementGuid>33504138-0765-4087-8aa8-c38790a4426f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
+      <webElementGuid>c05f9289-491d-4143-b79d-293c65eb03c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TAB Closed</name>
+   <tag></tag>
+   <elementGuidId>743f2e0f-b4bb-4b7d-9acb-1a184f2973a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e559a25-347a-46e9-81e4-dea9c5b32bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border-b-[3px] py-2 px-4 hover:text-neutral-20 border-white text-neutral-30</value>
+      <webElementGuid>1063bf80-5823-4efd-bc54-c1de132b2537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Closed</value>
+      <webElementGuid>0d84ed8b-bb76-461e-bfa3-2a73ea145998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;scrollDepositDefault mb-2 overflow-hidden overflow-x-auto&quot;]/div[@class=&quot;mb-2 flex w-max items-center space-x-2 border-b border-neutral-70 md:mb-4 md:w-full&quot;]/div[@class=&quot;cursor-pointer border-b-[3px] py-2 px-4 hover:text-neutral-20 border-white text-neutral-30&quot;]</value>
+      <webElementGuid>e015b981-3362-4c2c-874e-b6b15d2c0f99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div/div/div[5]</value>
+      <webElementGuid>5ed50f1e-948e-46e2-be9d-53ffefb7bb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matured'])[1]/following::div[1]</value>
+      <webElementGuid>103bf71e-31ea-435c-85e0-86c3a872bafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[2]</value>
+      <webElementGuid>df0ac889-52e4-4046-a91f-fcbd8232d469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed'])[1]/preceding::div[1]</value>
+      <webElementGuid>037b7f90-bc44-41c6-ac4a-bfee976c50b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[1]/preceding::div[2]</value>
+      <webElementGuid>59605b50-5f79-4b2b-8582-b89b45801ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Closed']/parent::*</value>
+      <webElementGuid>9951e9d8-9db4-4f30-8497-e6db576fe661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[5]</value>
+      <webElementGuid>c8368e7b-c85d-4dae-a0d1-8d2209c0c099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Closed' or . = 'Closed')]</value>
+      <webElementGuid>cd267ab7-5e69-418e-b40d-7923f903c993</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Description Remark</name>
+   <tag></tag>
+   <elementGuidId>11f05244-3405-4f0b-9ee7-26863008147f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[(text() = '' or . = '')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d85e7696-4261-4e60-b0d3-aae91b16ed2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>7f04b766-e933-4e49-bd18-a885c2d6bed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]</value>
+      <webElementGuid>4fd1f728-7f64-4cf1-aa1b-ae02b428e4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>6f42f984-d8e4-49d0-b8a6-5be94746406d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>`</value>
+      <webElementGuid>13852e66-1977-4390-a922-6068d54fd337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r4i:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-10 overflow-hidden rounded-md opacity-100 scale-100&quot;]/div[@class=&quot;flex h-full flex-col justify-between&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-3/4&quot;]/textarea[@class=&quot;focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]&quot;]</value>
+      <webElementGuid>dcd183b9-072d-4e23-975b-12b20bfdfd7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r4i:']/div[2]/div[2]/div[2]/div[2]/div[2]/textarea</value>
+      <webElementGuid>463e0e90-756e-4012-97eb-0d9f4c111a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description / Remark'])[1]/following::textarea[1]</value>
+      <webElementGuid>448dd2c7-f8a0-4763-a40d-d957fa450562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[1]/following::textarea[1]</value>
+      <webElementGuid>8e3feb7b-b713-45c8-8ea7-c8c4be0a45fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>3f400cd2-b8d3-4fa8-8e2d-dadf34c2640e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Task for Rework'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>5837c96b-bc18-41f4-86da-d65778cd7f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>dc9c655e-e893-4695-9c02-5dea7312cb9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[(text() = '`' or . = '`')]</value>
+      <webElementGuid>91fcfb72-a404-4ce5-9ae4-66806a50e4d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

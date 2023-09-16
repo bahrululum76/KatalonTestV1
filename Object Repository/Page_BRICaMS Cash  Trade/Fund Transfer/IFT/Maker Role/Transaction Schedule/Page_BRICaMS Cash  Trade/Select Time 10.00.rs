@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Time 10.00</name>
+   <tag></tag>
+   <elementGuidId>294d9a22-d11e-4e91-ace1-f8434525a69d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-scheduledTime-option-14' and (text() = '14:00' or . = '14:00')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd4f9427-bfb8-4cf1-a650-22b544a46b68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
+      <webElementGuid>cea05a97-b1ed-492b-bf37-02958ffb87dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ce474db4-1ff8-48aa-a4e9-3db39a5d7f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-scheduledTime-option-10</value>
+      <webElementGuid>7cea038b-51a3-4479-9883-1540732bc5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>32dd06f3-ae20-42dc-93a4-714cff31c496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10:00</value>
+      <webElementGuid>fd30b7e2-711b-49b8-8364-3ba39a32c31c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;react-select-scheduledTime-option-10&quot;]</value>
+      <webElementGuid>e6932c43-67df-4fb1-b36a-db35e61c3842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-scheduledTime-option-10' and (text() = '10:00' or . = '10:00')]</value>
+      <webElementGuid>8b7e75f5-13c6-4dc6-8bde-eb6c013b9b5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

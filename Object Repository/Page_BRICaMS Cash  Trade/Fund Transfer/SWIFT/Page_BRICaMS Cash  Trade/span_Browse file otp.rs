@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Browse file otp</name>
+   <tag></tag>
+   <elementGuidId>0bf8a130-de6b-496a-b271-a45e7bcdb8db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-left.text-primary-60.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:r36:']/div[2]/div[2]/div[20]/div[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bbbcb072-1f89-447d-a338-eb54a037a174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left text-primary-60 cursor-pointer</value>
+      <webElementGuid>e314fbd6-035f-4b31-9857-2b0e2f8efc47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse file</value>
+      <webElementGuid>8c5281b8-d2a7-4a68-9937-af6e01c98b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r36:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-2/5 opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col space-y-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;text-left text-primary-60 cursor-pointer&quot;]</value>
+      <webElementGuid>7ac13706-d797-42f3-95ca-c002a5875a13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r36:']/div[2]/div[2]/div[20]/div[2]/div/span[2]</value>
+      <webElementGuid>bbd87b3e-d9d6-4e5d-8e13-ef20d536ceb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::span[3]</value>
+      <webElementGuid>99016956-2ebd-4c0b-868d-a37b4dd40bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum upload size: 25 MB'])[1]/preceding::span[1]</value>
+      <webElementGuid>a1e28caf-ad4e-414d-82bc-30436f5d629c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse file']/parent::*</value>
+      <webElementGuid>f785e71c-8ab0-4470-bf85-999d7f252f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/div[2]/div/span[2]</value>
+      <webElementGuid>f723c025-6fcf-4e75-b1f5-65a87fe7eee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Browse file' or . = 'Browse file')]</value>
+      <webElementGuid>b4a23e74-392d-4f48-90df-60ff16685d95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

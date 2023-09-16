@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Beneficiary Account No</name>
+   <tag></tag>
+   <elementGuidId>36c177a3-cc7b-4699-9b64-54802533cda9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>aef1721d-1238-4714-a9b1-cd32f9ae7ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>24a35ab9-635c-4135-ae66-a8f8dcbee2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60 </value>
+      <webElementGuid>75596e4e-446c-4839-808e-def3bd460586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Toggle Column Visible</value>
+      <webElementGuid>de36e2c4-60ec-46f7-b98a-1d5189f7aed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-:r11:&quot;)/ul[@class=&quot;max-h-48 px-4 overflow-auto border-b border-b-neutral-70 last:border-b-0&quot;]/li[@class=&quot;w-full h-8 flex items-center&quot;]/label[@class=&quot;inline-flex flex-start cursor-pointer&quot;]/input[@class=&quot;rounded text-primary-60 focus:ring-1 focus:ring-primary-70 focus:ring-offset-1 cursor-pointer disabled:bg-grey-80 my-[1px] h-4 w-4 translate-y-0.5 border-neutral-60&quot;]</value>
+      <webElementGuid>b1f67bb1-1f6d-4e0f-bdbd-42186532b600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[6]</value>
+      <webElementGuid>858f8f60-d9ec-472b-afff-662f6c6be53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-:r11:']/ul/li[5]/label/input</value>
+      <webElementGuid>7c03d7aa-c72d-4788-a790-c15597b8d5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/label/input</value>
+      <webElementGuid>0f924018-e921-4522-9e58-a637976553cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @title = 'Toggle Column Visible']</value>
+      <webElementGuid>e5d1ce30-28e2-4480-86ce-8ce7a8cff504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

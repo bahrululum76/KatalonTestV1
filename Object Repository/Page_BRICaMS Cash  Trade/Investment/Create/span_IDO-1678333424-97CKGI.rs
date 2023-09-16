@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IDO-1678333424-97CKGI</name>
+   <tag></tag>
+   <elementGuidId>d3c4672d-4b7c-43ae-9123-308aaf0e4518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-center.text-base.font-semibold.leading-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:r1i:']/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d6038926-4e59-4bea-967d-71e7f026beac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-base font-semibold leading-5</value>
+      <webElementGuid>181030a3-ff68-455c-a278-dd2013143e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDO-1678333424-97CKGI</value>
+      <webElementGuid>c2d5a932-a0d1-413b-b204-c2f5df19769b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r1i:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col items-center justify-center space-y-5&quot;]/div[@class=&quot;mt-4 flex flex-col space-y-2&quot;]/span[@class=&quot;text-center text-base font-semibold leading-5&quot;]</value>
+      <webElementGuid>7bdf6755-afae-45df-be8c-e21b82621d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r1i:']/div[2]/div/div/span</value>
+      <webElementGuid>5452e64f-0cf8-4304-9e22-952cc6dd864e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[1]</value>
+      <webElementGuid>4d7bee17-b2a6-47c2-b1a3-bc04c022380e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[1]</value>
+      <webElementGuid>271bd3e1-1577-49e2-8216-bb3cae79aa0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has been successfully saved as draft.'])[1]/preceding::span[1]</value>
+      <webElementGuid>a9c07a45-2d2e-40fa-977a-257e4063c6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[2]</value>
+      <webElementGuid>813d22cc-7464-414b-8ab0-a42d4ee3d4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDO-1678333424-97CKGI']/parent::*</value>
+      <webElementGuid>eeaf2d37-4d67-4a63-a486-9fcbdc996382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/span</value>
+      <webElementGuid>84d24e5b-b071-4a78-b241-6aab77430d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IDO-1678333424-97CKGI' or . = 'IDO-1678333424-97CKGI')]</value>
+      <webElementGuid>dee8a071-07e8-4b1d-8b64-71c299d0749a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

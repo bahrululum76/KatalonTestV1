@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select</name>
+   <tag></tag>
+   <elementGuidId>f9c034ec-8be6-4076-b0d2-e620fa0f4f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__control.react-select__control--is-focused.css-1pahdxg-control > div.react-select__value-container.css-1d8n9bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div/div/div/div/div[5]/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9c446c0-d0d9-4287-a4ba-956289750ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container css-1d8n9bt</value>
+      <webElementGuid>c66c156d-cbfb-46c4-8608-17e9d5a87dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select..</value>
+      <webElementGuid>a72eeddf-fde8-4953-b28d-2cf647ea2ed5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;grid grid-rows-1 gap-4 mb-24&quot;]/div[@class=&quot;grid grid-cols-12 gap-2 mt-2&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;border border-white bg-white w-full h-full p-5 rounded-lg&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-col space-y-5 w-1/2&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex space-x-3 w-full&quot;]/div[@class=&quot;relative inline-block w-4/5&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-select__container css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]</value>
+      <webElementGuid>4476a33f-1152-4683-aa56-490293fba3e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[3]/div/div/div/div/div[5]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>09747201-97a5-49f7-9570-7dbfed3bdfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select is focused ,type to refine list, press Down to open the menu,'])[1]/following::div[2]</value>
+      <webElementGuid>857fc5d4-2be7-420c-81c7-4967e0dbafe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiary Account Number'])[1]/following::div[4]</value>
+      <webElementGuid>f871cd74-a48b-48b8-98e6-30859ee73506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check'])[2]/preceding::div[4]</value>
+      <webElementGuid>d462724b-dff1-415c-ac0d-f8493a5bc5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>752ddf5c-1495-41ed-af9d-1cb9120e1085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select..' or . = 'Select..')]</value>
+      <webElementGuid>18af2ef6-a0d5-4144-8133-334a003738d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Tag</name>
+   <tag></tag>
+   <elementGuidId>bffeb0ec-5919-44cb-b13b-4be266262b7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div[2]/div[3]/div/main/div/div[2]/div[2]/form/div[1]/div[2]/div/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__value-container.react-select__value-container--is-multi.react-select__value-container--has-value.css-1hwfws3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c547bf4e-e6eb-4559-84d3-9584878c2cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container react-select__value-container--is-multi react-select__value-container--has-value css-1hwfws3</value>
+      <webElementGuid>17238884-fbd6-43c3-b992-3d55741adde9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  top-16 ml-0 h-[calc(100vh-64px)] bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;mb-22 flex flex-col&quot;]/div[@class=&quot;grid grid-cols-12 gap-3&quot;]/div[@class=&quot;col-span-4 h-full w-full rounded bg-white p-8 shadow-md&quot;]/form[1]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;flex flex-col space-y-5 pb-4&quot;]/div[@class=&quot;relative inline-block w-full mb-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-select__container css-b62m3t-container&quot;]/div[@class=&quot;react-select__control css-1s2u09g-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--is-multi react-select__value-container--has-value css-1hwfws3&quot;]</value>
+      <webElementGuid>a24c62a4-c7d9-4060-9164-f36da4300751</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[2]/div[2]/form/div/div[2]/div/div/div[5]/div/div/div/div</value>
+      <webElementGuid>f0d95bf8-239c-4b5e-b1db-12706a34393b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag'])[1]/following::div[4]</value>
+      <webElementGuid>e0057207-1744-4efe-8443-c43b7780d6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[7]</value>
+      <webElementGuid>82bee349-b591-4247-84c7-d97b4863caa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TICKET HISTORY'])[1]/preceding::div[8]</value>
+      <webElementGuid>252bd3f4-a638-4afe-974e-70eb533b7a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::div[10]</value>
+      <webElementGuid>4455579a-af32-48b4-8258-54c66f9bb066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>18ad75cc-de73-45b0-9d40-0be9245683f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

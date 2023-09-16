@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>COUNTRY</name>
+   <tag></tag>
+   <elementGuidId>6ede141f-2570-4155-a250-4fc0a92e1f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/form/div/div/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__input-container.css-ackcql</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c3dd395-f2a2-41d6-9100-1ee662dab9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__input-container css-ackcql</value>
+      <webElementGuid>92e9de15-54a3-4119-bdfd-aabb8c5d0b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;grid grid-cols-1 gap-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;w-full overflow-x-auto&quot;]/div[1]/form[1]/div[@class=&quot;bg-primary-99 rounded border border-grey-80 p-4 mb-6&quot;]/div[@class=&quot;grid grid-cols-2 gap-4 md:grid-cols-4&quot;]/div[@class=&quot;relative inline-block&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;react-select__container css-b62m3t-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;react-select__value-container css-1d8n9bt&quot;]/div[@class=&quot;react-select__input-container css-ackcql&quot;]</value>
+      <webElementGuid>b4598ec3-c7b6-4df0-b105-92018c0f9e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/form/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>5890ae16-eaf7-4cd8-b460-730fa37ef451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select...'])[1]/following::div[1]</value>
+      <webElementGuid>e81633cc-726f-41ac-934e-4589d4cc1599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiary Country'])[1]/following::div[6]</value>
+      <webElementGuid>bc056265-0f00-4190-be2c-0a4f2b4a16bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/preceding::div[2]</value>
+      <webElementGuid>8004cb7f-776f-451f-ae89-3b16bcbc0629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aland Islands'])[1]/preceding::div[3]</value>
+      <webElementGuid>23574b28-ff54-4428-b143-ea7a7642a2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>26e10c22-8de8-447a-96ce-9c35c112cce8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

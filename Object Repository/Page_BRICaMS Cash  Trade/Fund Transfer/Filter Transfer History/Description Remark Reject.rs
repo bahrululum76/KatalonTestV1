@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Description Remark Reject</name>
+   <tag></tag>
+   <elementGuidId>ab346de7-f6c2-405a-8e54-f693e1da8cdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:r17:']/div[2]/div[2]/div[2]/div[2]/div[2]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d59e3eb8-eb8d-4c67-9604-4226c98335df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>b4d6f2e0-2a17-44bb-9ec3-29c4896aa4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]</value>
+      <webElementGuid>9a66e0fc-1c77-4b4d-b9a6-77e7f8f968ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>011a4730-00c6-444c-8b9e-bcc7c28f7156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r17:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-10 overflow-hidden rounded-md opacity-100 scale-100&quot;]/div[@class=&quot;flex h-full flex-col justify-between&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-3/4&quot;]/textarea[@class=&quot;focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]&quot;]</value>
+      <webElementGuid>b5ec241b-7ca8-4e39-9136-74e5ba038de0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r17:']/div[2]/div[2]/div[2]/div[2]/div[2]/textarea</value>
+      <webElementGuid>ee1a40f8-3783-4af4-bc95-739b11b1ac0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>c8360ef2-2009-43dc-a17d-b20c5daf8ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Draft Filter</name>
+   <tag></tag>
+   <elementGuidId>b3ebd341-8605-415c-8eea-af27eb96f5ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-12-option-2' or (text() = 'Draft' or . = 'Draft')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f94a26df-97b8-412a-a34e-cd372f06e66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
+      <webElementGuid>f5e58f10-aa7a-49aa-a05f-74908fe20a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c887a7cc-a927-44df-b74e-c25aad0a1e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-12-option-3</value>
+      <webElementGuid>8d96b848-3557-4c8c-81ab-7dc4800c4ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a5b315af-23d9-4bdc-98ea-2d2fa1c00bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending</value>
+      <webElementGuid>3a396052-19a7-48ea-912c-04ce283452c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;react-select-12-option-3&quot;]</value>
+      <webElementGuid>42712781-a659-4f1a-9178-658ddce8ba16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-12-option-3' and (text() = 'Pending' or . = 'Pending')]</value>
+      <webElementGuid>ad1775ba-5f5b-4a31-bdb2-bbf7792f36c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

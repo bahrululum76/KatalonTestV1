@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PDF log</name>
+   <tag></tag>
+   <elementGuidId>c04653e6-bcd8-4d25-9b7e-6694ea5c9184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/section[3]/div/div[2]/div[1]/div[2]/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a854459c-8efe-46f4-a99b-5e3e57abe497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded w-full cursor-pointer h-6 !border-secondary-60 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80 focus:right-1 focus:ring-success-90 focus:ring-offset-2</value>
+      <webElementGuid>08410d04-bf19-4283-a1ef-19aa708b6f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>231e7999-0d2a-4dce-9b75-373841db75dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PDF</value>
+      <webElementGuid>01a3be30-206f-4eb6-a208-5c0194cf080f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-items-:r18:&quot;)/button[@class=&quot;px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded w-full cursor-pointer h-6 !border-secondary-60 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80 focus:right-1 focus:ring-success-90 focus:ring-offset-2&quot;]</value>
+      <webElementGuid>a6dc68cd-38e6-4639-9f3e-aa2702d6cdae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-menu-items-:r18:']/button</value>
+      <webElementGuid>5cae9b30-4095-4c82-91f8-4d7d9c7de59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[2]/following::button[1]</value>
+      <webElementGuid>5343ede6-2646-44e3-b82a-2aa8a1e277dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity :'])[1]/following::button[2]</value>
+      <webElementGuid>c6f05de0-3c8e-455a-b2d1-d08c7744d239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel (.xls)'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8e5fb24-3a79-4e4a-9d60-64d712f76c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>54b72952-c1d9-4e2e-8288-c703f38ab9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'PDF' or . = 'PDF')]</value>
+      <webElementGuid>a69e4aa5-44c4-46fb-87fb-bef787f8981e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

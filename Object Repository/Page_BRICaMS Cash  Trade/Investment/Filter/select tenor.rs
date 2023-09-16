@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select tenor</name>
+   <tag></tag>
+   <elementGuidId>30cf5016-7916-4ee1-8dde-3995c4cf37a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;tenor&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div[1]/div[4]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c50d7faf-1ce2-4251-a7c7-4eb640acd874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tenor</value>
+      <webElementGuid>fe922f18-da43-4e25-8ef0-753e6ba3733c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-1 h-8 w-full rounded border-grey-80 bg-white p-1</value>
+      <webElementGuid>df4323ea-3425-4a36-81a5-e49f58488bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Placeholder</value>
+      <webElementGuid>67ddac3e-a004-4394-ab28-12449741d2b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All1 months3 months6 months12 months</value>
+      <webElementGuid>6b20e2f8-2429-4020-8fff-77a7286e1d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/form[1]/div[@class=&quot;bg-primary-99 rounded border border-grey-80 p-4 mb-6&quot;]/div[@class=&quot;grid grid-cols-2 gap-4 md:grid-cols-4&quot;]/div[4]/select[@class=&quot;mx-1 h-8 w-full rounded border-grey-80 bg-white p-1&quot;]</value>
+      <webElementGuid>efd6a2b4-0bf9-4198-8ae1-0f0bcf2a14ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='tenor']</value>
+      <webElementGuid>181e6a3a-2a04-42a5-b958-8860195430df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div/div[4]/select</value>
+      <webElementGuid>a8f6e62f-16e1-4e06-b7ec-289a0cb168d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenor/Terms'])[1]/following::select[1]</value>
+      <webElementGuid>473e5ded-4e01-4adc-bebf-ea4a677da909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::select[2]</value>
+      <webElementGuid>46466ebc-7a82-47b3-9931-894032cea263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>441de8fc-0abc-488f-8a3e-28123ab508f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[2]</value>
+      <webElementGuid>d86caad1-cf87-4f00-a751-6a2ee1131cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>79bc3464-618d-439e-b8f8-c1641f9bf0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'tenor' and @placeholder = 'Placeholder' and (text() = 'All1 months3 months6 months12 months' or . = 'All1 months3 months6 months12 months')]</value>
+      <webElementGuid>863d8b95-14c1-4fc6-84e7-12c8c6c3d8ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

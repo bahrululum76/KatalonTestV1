@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Done</name>
+   <tag></tag>
+   <elementGuidId>6099c7f5-fb83-4096-9006-b3d47915a2ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div/div/div/div[2]/div[2]/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b38af954-d579-4c78-963c-1b20aafe1d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 border border-secondary-80 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80/75 disabled:border-secondary-80/50 disabled:text-secondary-50/50 disabled:bg-transparent w-1/2</value>
+      <webElementGuid>f5775eff-9d87-494f-80c1-255228668a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1950c19f-df3e-4c2b-afc2-8e97b8b8b995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>17b265de-48a4-4640-8dc7-f132f97d43c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:rh:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm opacity-100 scale-100&quot;]/div[@class=&quot;mt-10 flex space-x-2&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 border border-secondary-80 text-secondary-50 hover:bg-secondary-90 active:bg-secondary-80/75 disabled:border-secondary-80/50 disabled:text-secondary-50/50 disabled:bg-transparent w-1/2&quot;]</value>
+      <webElementGuid>47940059-22c2-43f0-aa8d-1d90bf546b36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:rh:']/div[2]/div[2]/button</value>
+      <webElementGuid>212b2008-66ef-459c-b877-cd7684c20fc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='has been successfully sent for approval.'])[1]/following::button[1]</value>
+      <webElementGuid>c8b46f14-8ba0-48c5-94f3-78e31faefe7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDO-1678333328-PORKSY'])[1]/following::button[1]</value>
+      <webElementGuid>55a22f10-9eb2-47b5-9554-ca2a2cc07a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Another Deposit'])[1]/preceding::button[1]</value>
+      <webElementGuid>13bcbc51-5758-4190-8566-d5f4e9c2558f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>ffb9a53f-5d55-45d2-b609-b2d18adbde4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>2b70f5f7-14bd-454a-8f48-2d54bf262710</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

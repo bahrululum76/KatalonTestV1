@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Activity Log</name>
+   <tag></tag>
+   <elementGuidId>356bebb5-5564-44a3-af74-4f85a1591859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='search'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>176eee37-bcc6-485f-ac2b-7f084bbb3026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>d7918de6-1bdb-4ee8-bd03-6ba533ee3d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full text-[0.8125rem] h-8 pl-8 pr-6 rounded transition-all caret-primary-70 border-neutral-60 placeholder:text-neutral-50 focus:border-neutral-70 focus:ring-0 focus:ring-primary-70 focus:outline-0</value>
+      <webElementGuid>660740ac-ba83-419c-9b33-af4d112f05d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search in table....</value>
+      <webElementGuid>2bbf5aae-cdbf-4dd0-90c2-1bf830a04d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;pt-2&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex space-x-4&quot;]/div[@class=&quot;relative inline-block flex-1 max-w-90&quot;]/input[@class=&quot;block w-full text-[0.8125rem] h-8 pl-8 pr-6 rounded transition-all caret-primary-70 border-neutral-60 placeholder:text-neutral-50 focus:border-neutral-70 focus:ring-0 focus:ring-primary-70 focus:outline-0&quot;]</value>
+      <webElementGuid>8c524180-4429-4ff8-871f-0b0c86866eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='search'])[2]</value>
+      <webElementGuid>a521298d-2769-4361-9dae-f19e84dbf7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[3]/div/div[2]/div/div/div/input</value>
+      <webElementGuid>314a038b-0a3a-4e25-bb68-ece5dd0dfa89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/div/div/div/input</value>
+      <webElementGuid>455f8b52-1a26-4433-9f7f-9ca935f5f858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search' and @placeholder = 'Search in table....']</value>
+      <webElementGuid>b9c61d2e-01dd-4d8c-95c2-3923397cc794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select status</name>
+   <tag></tag>
+   <elementGuidId>544ec78d-a4ff-438e-8eca-22c488475901</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;status&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div[1]/div[6]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8bbe516c-2d53-4c6d-a94a-1b835ecd9acd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>6fa84a6a-29ec-4e28-809d-edf365f0b366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-1 h-8 w-full rounded border-grey-80 bg-white p-1</value>
+      <webElementGuid>cdb0c6d7-9d56-43e3-8272-f90f76ebdc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Placeholder</value>
+      <webElementGuid>735c2676-b3e7-4cd9-9136-89576fcaa2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AllApprovedRequest For DeleteDraftPendingRejectedReturned</value>
+      <webElementGuid>145189ab-fba0-49db-87b7-cf77f86265df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/form[1]/div[@class=&quot;bg-primary-99 rounded border border-grey-80 p-4 mb-6&quot;]/div[@class=&quot;grid grid-cols-2 gap-4 md:grid-cols-4&quot;]/div[6]/select[@class=&quot;mx-1 h-8 w-full rounded border-grey-80 bg-white p-1&quot;]</value>
+      <webElementGuid>1295a6d7-b4a6-4d5a-abb0-1a0f4cab0993</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='status']</value>
+      <webElementGuid>71074c3d-ffe6-4484-9965-054ed46aef2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div/div[6]/select</value>
+      <webElementGuid>7464719d-030e-480b-8be9-656c43e1d549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
+      <webElementGuid>30db1ef9-d9f2-46e4-909a-633c59705172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Type'])[1]/following::select[2]</value>
+      <webElementGuid>24e4829c-5cb8-4998-b0e9-74c9b69b8ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/preceding::select[1]</value>
+      <webElementGuid>4d310667-e0ed-450f-ba7f-5c65a38bdfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Modified'])[1]/preceding::select[1]</value>
+      <webElementGuid>72b91886-9d95-463a-a43e-8737181b9b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>1d6ca9e3-48ad-4057-95d1-2d6fd770adb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and @placeholder = 'Placeholder' and (text() = 'AllApprovedRequest For DeleteDraftPendingRejectedReturned' or . = 'AllApprovedRequest For DeleteDraftPendingRejectedReturned')]</value>
+      <webElementGuid>d479ede0-ed1c-460c-8c62-a89e88b6d599</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction IDIFT57339</name>
+   <tag></tag>
+   <elementGuidId>ad78e3af-7a47-4816-8eea-7c73d6b95306</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between.items-center.py-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afb6f9e0-65e4-46b1-9b6e-b942867fc1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center py-2</value>
+      <webElementGuid>441c59a5-a84e-4ed2-8396-9de32d09a4ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction IDIFT57339</value>
+      <webElementGuid>502b475c-ad17-4b7c-af06-3d019f47584a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;space-y-6&quot;]/div[2]/div[@class=&quot;grid grid-cols-3 xl:grid-cols-5 gap-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md flex flex-col justify-between col-span-3 xl:col-span-2&quot;]/div[@class=&quot;flex justify-between items-center py-2&quot;]</value>
+      <webElementGuid>8dd0f5cd-6766-4807-bba6-3aca716724c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/div[3]/div[3]</value>
+      <webElementGuid>001a478e-b3f4-46ef-829a-5b1d0f06e3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Summary'])[1]/following::div[2]</value>
+      <webElementGuid>9b12e416-a106-4c9e-baa5-07f3db90183e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EUR'])[1]/following::div[4]</value>
+      <webElementGuid>d91842c2-d832-4d64-bfb0-767d3a22871c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>5e0156d4-e5ad-44c5-9eeb-f11dcedf8d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction IDIFT57339' or . = 'Transaction IDIFT57339')]</value>
+      <webElementGuid>0c2be3fb-31a2-4196-bbb9-c4c04854ee11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

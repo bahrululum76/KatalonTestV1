@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_On Checker Rework</name>
+   <tag></tag>
+   <elementGuidId>6a112115-ba6d-477e-8ef7-0342919c0800</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/div[2]/table/tbody/tr/td[14]/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>afc9e27e-3ced-40ba-ac09-9d752b5cdbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center h-6 w-8 border rounded text-warning-70 border-warning-70 bg-white hover:bg-warning-95 active:bg-warning-90 mx-1</value>
+      <webElementGuid>1bdfbbff-8c3c-406a-a2b8-6de84a12bf8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;grid grid-cols-1 gap-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;w-full overflow-x-auto&quot;]/div[1]/div[@class=&quot;overflow-x-auto&quot;]/table[@class=&quot;w-full table-fixed&quot;]/tbody[@class=&quot;relative table-fixed&quot;]/tr[@class=&quot;odd:bg-white even:bg-primary-99 border border-t-0 border-neutral-70&quot;]/td[@class=&quot;py-3 px-4 text-[0.8125rem] font-normal leading-4 !border-r-0 !border-l-0 border-r-neutral-70 last:border-r-0 align-top text-ellipsis overflow-hidden whitespace-nowrap align-middle&quot;]/div[@class=&quot;flex justify-between&quot;]/div[1]/button[@class=&quot;inline-flex items-center justify-center h-6 w-8 border rounded text-warning-70 border-warning-70 bg-white hover:bg-warning-95 active:bg-warning-90 mx-1&quot;]</value>
+      <webElementGuid>805d8127-4a2d-43a5-9c90-5c8370fb41bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/div[2]/table/tbody/tr/td[14]/div/div/button[3]</value>
+      <webElementGuid>48bf6c63-38bb-43fc-a97a-b660425b3ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Checker'])[1]/following::button[3]</value>
+      <webElementGuid>2dc5dd6c-907b-4edb-816a-427b9c567c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CU_ROSNEFT_M'])[1]/following::button[3]</value>
+      <webElementGuid>64f78a04-f59d-4d62-96d4-0e5752d9a0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SWF1675817961'])[2]/preceding::button[1]</value>
+      <webElementGuid>f2ada50c-5ac9-4fd7-a4f5-0ce32f2beea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New baru'])[1]/preceding::button[1]</value>
+      <webElementGuid>3f70c66e-351f-4f3f-9718-0af991e250e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]/div/div/button[3]</value>
+      <webElementGuid>2041ccf1-28c5-4768-b4db-6aea8bde8370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

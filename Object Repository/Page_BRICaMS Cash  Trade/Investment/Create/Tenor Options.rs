@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tenor Options</name>
+   <tag></tag>
+   <elementGuidId>7004ffdd-c4df-483e-9f16-18e8a7c98fdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div/div[4]/div[1]/div/div/div[9]/div/div/div/div/div[2]/div/div[${Integer.parseInt(GlobalVariable.tenor)}]
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div/div[4]/div[1]/div/div/div[9]/div/div/div/div/div[2]/div/div[1]</value>
+      <webElementGuid>b244adad-2ea2-49ae-bb5e-836208b226d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//html/body/div[1]/div/div/div[2]/div[3]/div/main/div/div[4]/div[1]/div/div/div[9]/div/div/div/div/div[2]/div/div[${Integer.parseInt(GlobalVariable.tenor)}]
+</value>
+      <webElementGuid>64d6fbf0-3fe6-4a9e-95f8-628ea6417278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/div/div[4]/div[1]/div/div/div[9]/div/div/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>ce4e43b9-6faf-42e2-bb56-a661feb2e060</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

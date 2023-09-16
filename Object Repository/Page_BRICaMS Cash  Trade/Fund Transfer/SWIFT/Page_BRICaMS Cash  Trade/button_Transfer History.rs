@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Transfer History</name>
+   <tag></tag>
+   <elementGuidId>71a70fda-ed15-4353-9e88-3239199dddf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='childButtonSidebar'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f69391e3-5c0f-4c34-aa3c-93654228dca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>childButtonSidebar</value>
+      <webElementGuid>722c7b4d-525b-412d-9fdb-4fe4c9d943c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-primary-30 text-white   flex w-full items-center border-l-4 border-secondary-70 py-2 pl-10 pr-2 text-xs font-normal hover:bg-[#05549C] hover:text-secondary-70</value>
+      <webElementGuid>84ecdc13-ef6d-40a3-a5c7-766f0fc9bee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/external-transfer/history</value>
+      <webElementGuid>50e820a5-bcbe-4790-a77d-73d82c3ec8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer History</value>
+      <webElementGuid>a1cc8d8f-2706-4322-ad06-e795cddf0f31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;scrollHomeDefault fixed top-16 bottom-0 ml-12 w-52 overflow-hidden bg-[#034186] hover:overflow-y-auto hover:overflow-x-hidden md:flex hidden&quot;]/div[@class=&quot;mt-4 flex w-full flex-col&quot;]/div[@id=&quot;disclosureSideBar&quot;]/div[1]/button[@id=&quot;childButtonSidebar&quot;]</value>
+      <webElementGuid>e75d2e20-0c5c-41ac-a822-3e08dc263dc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='childButtonSidebar'])[2]</value>
+      <webElementGuid>2be4bccd-6df5-42c7-b9da-7aaa82c19884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='disclosureSideBar']/div/button[2]</value>
+      <webElementGuid>856ce96b-aa72-46c9-8db9-2c73fc702234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a Transfer'])[1]/following::button[1]</value>
+      <webElementGuid>597f1cc7-7612-4f94-8b03-8a22982910f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRI to Other'])[1]/following::button[2]</value>
+      <webElementGuid>9891b5bf-3e9f-41e7-b049-1c6ee244cbb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payroll'])[1]/preceding::button[1]</value>
+      <webElementGuid>6d865df8-a1de-4a7a-9e81-fba7ae48d591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Transfer'])[1]/preceding::button[2]</value>
+      <webElementGuid>8747779a-1ddc-45f1-a38f-2e471f575234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transfer History']/parent::*</value>
+      <webElementGuid>e00a763a-3447-4e4d-b3be-bb3f32690564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>4444bb0f-cc07-41b3-8eaf-29c427a98c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'childButtonSidebar' and @href = '/external-transfer/history' and (text() = 'Transfer History' or . = 'Transfer History')]</value>
+      <webElementGuid>5884dc21-bf39-4bf6-ba83-ceffb76e20ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

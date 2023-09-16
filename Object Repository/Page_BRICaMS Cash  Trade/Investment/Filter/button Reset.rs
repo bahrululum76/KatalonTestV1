@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Reset</name>
+   <tag></tag>
+   <elementGuidId>9f229755-e0c2-4c38-ad69-0d0736f986b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='reset']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf80a13c-806e-4042-8920-05e735e75002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>reset</value>
+      <webElementGuid>1f1f8be8-2600-421e-9878-13dd3769db48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded cursor-pointer h-8 bg-neutral-80 border-neutral-70 text-neutral-40 hover:bg-neutral-60 active:bg-neutral-60 focus:right-1 focus:ring-neutral-90 focus:ring-offset-2 text-light</value>
+      <webElementGuid>09363462-06ff-4531-a314-fc04cac7a040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset</value>
+      <webElementGuid>8858161f-dd36-44f0-b595-2385ef070ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/form[1]/div[@class=&quot;bg-primary-99 rounded border border-grey-80 p-4 mb-6&quot;]/div[@class=&quot;mt-4 flex justify-end space-x-4&quot;]/button[@class=&quot;px-2 inline-flex focus:outline focus:outline-1 focus:outline-offset-3 items-center py-2 border border-transparent shadow-sm text-sm leading-4 font-medium rounded cursor-pointer h-8 bg-neutral-80 border-neutral-70 text-neutral-40 hover:bg-neutral-60 active:bg-neutral-60 focus:right-1 focus:ring-neutral-90 focus:ring-offset-2 text-light&quot;]</value>
+      <webElementGuid>2625ad2c-7e65-44c7-86f0-e5a1c45c0bd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='reset']</value>
+      <webElementGuid>2134bd3e-4fa6-45d5-aa95-556756591d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div[2]/form/div/div[2]/button[2]</value>
+      <webElementGuid>060d8358-615d-4305-9665-6c9948588eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply Filter'])[1]/following::button[1]</value>
+      <webElementGuid>62791505-56ef-4a6d-9915-5029b7af7c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Modified'])[1]/following::button[2]</value>
+      <webElementGuid>fb587668-c57f-4dd7-9b84-197761be942f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>d7faf48d-ab2c-4a29-8641-5cd47fe0469b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/button[2]</value>
+      <webElementGuid>9150eb97-2a36-4aed-9291-e7664dce2d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'reset' and (text() = 'Reset' or . = 'Reset')]</value>
+      <webElementGuid>c941d4c7-b004-4d92-a2ae-abe787fec61f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

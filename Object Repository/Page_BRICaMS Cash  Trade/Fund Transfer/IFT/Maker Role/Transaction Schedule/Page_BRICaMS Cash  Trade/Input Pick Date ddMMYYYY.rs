@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input Pick Date ddMMYYYY</name>
+   <tag></tag>
+   <elementGuidId>29ee5194-9c8e-4608-9dd9-617e4d6caa2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'text' and @placeholder = 'dd/mm/yyyy']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>76284c2e-2ef3-4b0a-8ef0-1fc786544030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ac04c461-62dd-452e-b60b-f5636bd2d298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>dd/mm/yyyy</value>
+      <webElementGuid>52074e85-3477-4ca9-94cc-f49b628e8690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-sm w-full text-sm px-2 border border-grey-80 rounded disabled:bg-neutral-80 disabled:cursor-disabled w-full border border-grey-80 px-2 text-[0.8125rem] shadow-sm</value>
+      <webElementGuid>697d31fe-278b-4622-9d7e-8a26d8942467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;space-y-6&quot;]/div[2]/div[1]/form[1]/div[@class=&quot;grid grid-cols-3 gap-6 lg:grid-cols-6 xl:grid-cols-5&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md col-span-3 flex flex-col space-y-4&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;relative flex space-x-3 pt-3.5 pl-7 pb-4 before:absolute before:left-1.5 before:top-0 before:h-14 before:w-4 before:border-l before:border-b before:border-[#BDBDBD]&quot;]/div[@class=&quot;flex w-1/2 flex-col&quot;]/div[@class=&quot;react-datepicker-wrapper bg-black&quot;]/div[@class=&quot;react-datepicker__input-container&quot;]/input[@class=&quot;font-medium text-sm w-full text-sm px-2 border border-grey-80 rounded disabled:bg-neutral-80 disabled:cursor-disabled w-full border border-grey-80 px-2 text-[0.8125rem] shadow-sm&quot;]</value>
+      <webElementGuid>08323f7f-12d5-41b3-8bd8-ad81794ea484</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+      <webElementGuid>19d39431-979d-4cdc-9956-3c09bd000b9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/form/div/div/div[5]/div[3]/div/div/div/input</value>
+      <webElementGuid>0e83ef7d-ea4a-4e70-848f-626cf009190c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>4cac36a1-5ba7-4aee-8c16-817583f80bda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'dd/mm/yyyy']</value>
+      <webElementGuid>00b6a320-752d-4605-b54d-2aabf0f2f259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

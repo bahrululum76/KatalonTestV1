@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Input_File</name>
+   <tag></tag>
+   <elementGuidId>2c7f5345-46f7-4b55-801d-19af1e78988a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-xs.font-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:r34:']/div[2]/div[2]/div[18]/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>54031163-48b3-43e8-8c8c-1bcdcc8f247e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs font-normal</value>
+      <webElementGuid>815ae3e5-4e3f-413c-8fef-b06bfd632f5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rose.pdf</value>
+      <webElementGuid>73d41721-0cfa-4822-8910-ba88027d2873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r34:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-2/5 opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col space-y-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;text-xs font-normal&quot;]</value>
+      <webElementGuid>74dbbd45-6074-4fc2-a422-0d6abf2ef6b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r34:']/div[2]/div[2]/div[18]/div[2]/div/span</value>
+      <webElementGuid>c4848f68-524c-4828-af0a-326b9b876398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::span[2]</value>
+      <webElementGuid>8b027b66-e883-493c-aaab-41319f2b4708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse file'])[1]/preceding::span[1]</value>
+      <webElementGuid>de938dea-5fa2-4c37-9cb1-d18ffd4c0ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum upload size: 25 MB'])[1]/preceding::span[2]</value>
+      <webElementGuid>d35a2304-2dfa-4f0f-9a85-1605cca3e5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rose.pdf']/parent::*</value>
+      <webElementGuid>0a2ff82d-3498-47a6-8e59-d4c3f5f9e7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div[2]/div/span</value>
+      <webElementGuid>b7758e0f-26bf-4846-acd7-6119dc06826f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rose.pdf' or . = 'Rose.pdf')]</value>
+      <webElementGuid>7cce2da9-48ce-4802-a40b-d5426eb9aa15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

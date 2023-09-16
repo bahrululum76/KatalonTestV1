@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7E002895DC165F761E2A0C6DD740AF22",
+  "keywordClasses": [
+    {
+      "name": "fund_transfer.IFTStepDef",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Option Single Transfer Pop Up</name>
+   <tag></tag>
+   <elementGuidId>1eb22a78-2b3b-452f-b06e-47b688f0e3d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h-32.w-64.rounded.border.p-4.flex.cursor-pointer.flex-col.justify-between.border-grey-70</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:rn:']/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e98dc788-b0b4-4d03-8784-fe167c42e3e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-32 w-64 rounded border p-4 flex cursor-pointer flex-col justify-between border-grey-70</value>
+      <webElementGuid>1b359fb2-bbcb-4978-861f-a23b7038e447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Single Transfer</value>
+      <webElementGuid>b2d02fe2-8c72-4e00-b1f2-eb3efff5bae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:rn:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-max opacity-100 scale-100&quot;]/div[@class=&quot;grid grid-cols-3 gap-4&quot;]/div[@class=&quot;h-32 w-64 rounded border p-4 flex cursor-pointer flex-col justify-between border-grey-70&quot;]</value>
+      <webElementGuid>b4058191-6b77-44e3-af57-f46c7cfed2a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:rn:']/div[2]/div[3]/div</value>
+      <webElementGuid>ab352cf6-315b-4013-a7a9-00b9a301b046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Transfer - BRI to Other Bank'])[1]/following::div[3]</value>
+      <webElementGuid>86712ffa-683c-48ae-b110-91fa0ffcc7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[12]</value>
+      <webElementGuid>63dee6fa-773c-4e9e-a8f4-2c2b28186227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Transfer'])[1]/preceding::div[5]</value>
+      <webElementGuid>312f7d1c-b2ff-4086-9bc5-6259f4f257b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>be4afad2-4802-4743-9cc1-177a43940be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Single Transfer' or . = 'Single Transfer')]</value>
+      <webElementGuid>86ac746b-9f34-40c6-89d1-4e86b845e0a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

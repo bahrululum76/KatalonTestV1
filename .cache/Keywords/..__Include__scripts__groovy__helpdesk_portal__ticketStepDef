@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "C0677C1396B03F270A01FB9B1BE5BA6C",
+=======
+  "keywordFileContentHash": "A0DF1CBB729E68B2C4C91A3719A6D887",
+>>>>>>> 8acb8b66db14c292abb6cbef62fd3ce4eb33bec5
+  "keywordClasses": [
+    {
+      "name": "helpdesk_portal.ticketStepDef",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_On Signe Reject</name>
+   <tag></tag>
+   <elementGuidId>e64c5102-ece0-43f2-a1aa-f76c8d3eb9f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div[2]/table/tbody/tr/td[16]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>468d58a4-c19f-4fe8-9d6d-e45f68f4f64c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-6 text-[0.8125rem] px-2 border border-danger-80 text-danger-50 hover:bg-danger-90 active:bg-danger-80/75 disabled:border-danger-80/50 disabled:text-danger-50/50 disabled:bg-transparent px-1 py-1</value>
+      <webElementGuid>0a1ab404-1185-49ca-a8bc-55419081863e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative mt-16 w-full overflow-x-hidden md:ml-64  ml-0 min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/section[@class=&quot;mt-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[2]/div[@class=&quot;overflow-x-auto border border-neutral-70&quot;]/table[@class=&quot;w-full table-fixed border-separate&quot;]/tbody[@class=&quot;relative table-fixed&quot;]/tr[@class=&quot;odd:bg-white even:bg-primary-99&quot;]/td[@class=&quot;py-3 px-4 text-[0.8125rem] font-normal leading-4 border-0 border-l border-b border-neutral-70 first:border-l-0 align-top text-ellipsis overflow-hidden whitespace-nowrap align-middle bg-white md:sticky&quot;]/div[@class=&quot;flex items-center space-x-2&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-6 text-[0.8125rem] px-2 border border-danger-80 text-danger-50 hover:bg-danger-90 active:bg-danger-80/75 disabled:border-danger-80/50 disabled:text-danger-50/50 disabled:bg-transparent px-1 py-1&quot;]</value>
+      <webElementGuid>41189429-48ea-4608-b57f-68f58a68fc24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div[2]/table/tbody/tr/td[16]/div/button[2]</value>
+      <webElementGuid>439a95d2-69cb-490d-a55d-1a9c488a0ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Signer'])[1]/following::button[2]</value>
+      <webElementGuid>7053e94d-470d-44db-9da1-722c06cdfcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Immediate'])[1]/following::button[2]</value>
+      <webElementGuid>fa43fb4d-6100-4f9c-8b28-0bc254f2115d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIF28098'])[2]/preceding::button[2]</value>
+      <webElementGuid>01e2dd6b-2fcb-4bf2-9e37-a4eee3bdca75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENXXXXXXXXXXXXXDUK'])[2]/preceding::button[2]</value>
+      <webElementGuid>1bd71777-4582-4f11-9a64-70b2efea4564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[16]/div/button[2]</value>
+      <webElementGuid>399081ba-c31c-44ec-a363-6602df81c013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

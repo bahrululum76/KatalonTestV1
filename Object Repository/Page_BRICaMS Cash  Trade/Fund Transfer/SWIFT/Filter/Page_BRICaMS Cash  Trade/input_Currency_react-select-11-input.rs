@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Currency_react-select-11-input</name>
+   <tag></tag>
+   <elementGuidId>cbdf3d14-0dc4-4454-90b0-a70ab5f7d7ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/form/div/div[1]/div[7]/div/div/div/div[1]/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'react-select-10-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-11-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-10-input</value>
+      <webElementGuid>8a0d08c9-5908-4d26-9938-865925c80cdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='react-select-11-input']</value>
+      <webElementGuid>2f5e9166-a219-4292-b32f-ce6debd92ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/section[2]/div/div[2]/div/div/div/form/div/div/div[7]/div/div/div/div/div/input</value>
+      <webElementGuid>5df482bf-c4c9-47e0-ad3b-b59ad23ffacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/input</value>
+      <webElementGuid>fa10e991-79c3-4a51-a5bd-90e7d72dde9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'react-select-11-input' and @type = 'text']</value>
+      <webElementGuid>a94e92c3-f8f0-4bb1-bfa0-90c0fe69be96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

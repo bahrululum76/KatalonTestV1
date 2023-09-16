@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TAB Active</name>
+   <tag></tag>
+   <elementGuidId>3dd9e427-5031-4aaf-8b2e-00ea8d6a0232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4d02391-71b8-4aa9-96be-f7b1acc73ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer border-b-[3px] py-2 px-4 hover:text-neutral-20 border-white text-neutral-30</value>
+      <webElementGuid>ef37fd23-3624-47d3-8dd6-5a7a72725bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>e1056264-4828-42ad-9e96-1ad18a3b1ef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md&quot;]/div[@class=&quot;scrollDepositDefault mb-2 overflow-hidden overflow-x-auto&quot;]/div[@class=&quot;mb-2 flex w-max items-center space-x-2 border-b border-neutral-70 md:mb-4 md:w-full&quot;]/div[@class=&quot;cursor-pointer border-b-[3px] py-2 px-4 hover:text-neutral-20 border-white text-neutral-30&quot;]</value>
+      <webElementGuid>c7c2a47f-ae4e-4d9f-baf2-c4a9fb12e8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div[4]/div/div/div[3]</value>
+      <webElementGuid>1d090488-1ac8-4498-9dfd-a7a1fb4bf7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Process'])[1]/following::div[1]</value>
+      <webElementGuid>ff1743bc-e3f8-4a90-a0e8-ba85fe753b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Deposit Accounts'])[1]/following::div[2]</value>
+      <webElementGuid>5f3cf419-45d7-4124-b1c6-db98777888b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matured'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a21cc51-3d07-48ec-878b-c15e00085fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed'])[1]/preceding::div[2]</value>
+      <webElementGuid>fa5618a0-ab5b-4f9b-a463-dbc790af4b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>486aa669-362b-4e0e-9d90-14ba3872d0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[3]</value>
+      <webElementGuid>5c7a8343-a2fb-4f42-9246-114ac6c339ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>2dc84253-a73f-4ff1-a8dc-ab53900218d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

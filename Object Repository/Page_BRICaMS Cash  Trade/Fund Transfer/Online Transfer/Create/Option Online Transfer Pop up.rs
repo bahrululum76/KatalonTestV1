@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Option Online Transfer Pop up</name>
+   <tag></tag>
+   <elementGuidId>3dea7666-3c3f-4c8b-909d-c880b6230955</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-dialog-:rn:']/div[2]/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0858143f-3c98-47ab-bdc1-8bca7ec8f3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-32 w-64 rounded border p-4 flex cursor-pointer flex-col justify-between border-grey-70</value>
+      <webElementGuid>64a8e31c-d483-4525-87c5-7b90d45c2efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online TransferMin. TransactionIDR 200Max. TransactionIDRNaN</value>
+      <webElementGuid>4b45178b-f29e-4643-97b7-1b939ed4d317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:rn:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-max opacity-100 scale-100&quot;]/div[@class=&quot;grid grid-cols-3 gap-4&quot;]/div[@class=&quot;h-32 w-64 rounded border p-4 flex cursor-pointer flex-col justify-between border-grey-70&quot;]</value>
+      <webElementGuid>1652a597-daf1-4acc-9bb3-1b1da5b4ee34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:rn:']/div[2]/div[5]/div</value>
+      <webElementGuid>94ed1bdc-3dcc-4043-9265-ef551de2487f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Transfer'])[1]/following::div[3]</value>
+      <webElementGuid>a8656237-a31c-448d-8cca-a6a2f7e0fc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single Transfer'])[1]/following::div[6]</value>
+      <webElementGuid>8fab50f8-1a40-4c0f-9e6a-d16c223aeeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div</value>
+      <webElementGuid>7dcd8b22-d49a-4e93-9d9f-d394af0341ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Online TransferMin. TransactionIDR 200Max. TransactionIDRNaN' or . = 'Online TransferMin. TransactionIDR 200Max. TransactionIDRNaN')]</value>
+      <webElementGuid>7c7e097a-306c-480b-8a53-e5871cb593ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

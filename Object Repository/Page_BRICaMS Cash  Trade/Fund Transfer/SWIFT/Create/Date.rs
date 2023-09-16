@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Date</name>
+   <tag></tag>
+   <elementGuidId>2ee9854d-fd3b-4fd2-a864-bcd9eb57c57e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'date' and @name = 'date']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>6aeca938-200f-45ff-9f25-c34f230c7bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>a71a6893-9c6a-4bdf-b5ff-bba00cd2da4b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BENXXXXXXOSO - 033901018887530</name>
+   <tag></tag>
+   <elementGuidId>61f18c43-ec76-4070-9c75-5169d953806d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-receiverAccountNumber-option-0' and (text() = 'BENXXXXXXOSO - 033901018887530' or . = 'BENXXXXXXOSO - 033901018887530')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f15f053-0764-4bed-8346-431389a9f470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__option react-select__option--is-focused react-select__option--is-selected css-9gakcf-option</value>
+      <webElementGuid>8a96a056-34f4-437b-8276-69917de87ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>be4f0228-3214-4881-a797-a07619e301f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-receiverAccountNumber-option-0</value>
+      <webElementGuid>ef9ecf26-c56f-467d-82cf-d59b2bbcceb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c49a8ec9-841e-4c56-959f-4d439abb9689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BENXXXXXXOSO - 033901018887530</value>
+      <webElementGuid>34d639d2-271d-4f1e-8799-a76103892d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;react-select-receiverAccountNumber-option-0&quot;]</value>
+      <webElementGuid>7d0e6656-9211-4fb9-949c-2cb978705527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-receiverAccountNumber-option-0' and (text() = 'BENXXXXXXOSO - 033901018887530' or . = 'BENXXXXXXOSO - 033901018887530')]</value>
+      <webElementGuid>b4d6104e-30f6-4101-bd9c-dc1fa46c70eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

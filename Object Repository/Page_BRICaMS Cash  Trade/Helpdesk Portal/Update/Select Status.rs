@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Status</name>
+   <tag></tag>
+   <elementGuidId>5cb92711-4202-4770-8d94-960c7222b2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__value-container.react-select__value-container--has-value.css-1d8n9bt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div[2]/div[3]/div/main/div/div[2]/div[2]/form/div[1]/div[2]/div/div/div[1]/div/div/div/div[1]/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'react-select-6-input' and @type = 'text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2324c547-db4b-4228-bbc6-232c4bf34f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container react-select__value-container--has-value css-1d8n9bt</value>
+      <webElementGuid>c4539b86-2cc3-426e-9db6-f24a282659c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>030579d0-4ba0-4482-90f1-3aa84fd6d91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;status&quot;)/div[@class=&quot;react-select__control css-1s2u09g-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--has-value css-1d8n9bt&quot;]</value>
+      <webElementGuid>b889099e-e46c-4625-9d0d-938238d2aba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-6-input</value>
+      <webElementGuid>c71343f0-ac5e-4c13-9193-a9c8fb5f2659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7353d7cc-f41e-4ca2-9810-e40a6bc41d61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='status']/div/div</value>
+      <webElementGuid>a00d2513-3c3b-4170-b9e0-060c790dcba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[4]</value>
+      <webElementGuid>05f19eb2-9dae-4898-a0ef-338769941b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROPERTIES'])[1]/following::div[8]</value>
+      <webElementGuid>94ff8a64-548e-434e-bbdd-356df732e4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/preceding::div[4]</value>
+      <webElementGuid>11895ed8-7baa-446b-88d2-299a9260acc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>1ec7bd88-e3ff-4592-a67b-0c339c24627b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Open' or . = 'Open')]</value>
+      <webElementGuid>7a5a88ff-1a41-47a1-bf98-1ed4cd66ea88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

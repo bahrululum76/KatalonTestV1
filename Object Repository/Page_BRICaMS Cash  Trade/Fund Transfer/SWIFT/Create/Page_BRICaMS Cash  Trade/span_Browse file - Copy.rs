@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Browse file - Copy</name>
+   <tag></tag>
+   <elementGuidId>887d5ed9-b29e-4a13-96c7-9be1c5c214dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-left.cursor-pointer.text-primary-60</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;headlessui-dialog-:r36:&quot;]/div[2]/div[2]/div[20]/div[2]/div[1]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b900d64e-8563-4337-b503-13532763a586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left cursor-pointer text-primary-60</value>
+      <webElementGuid>6585e542-ebbe-4501-89bf-a23e9860059f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-dialog-:r2e:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-2/5 opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col space-y-3&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex flex-col space-y-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;text-left cursor-pointer text-primary-60&quot;]</value>
+      <webElementGuid>ec1d2439-ea7a-4775-946f-84ff1cd861ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>248fbb11-762e-4973-9820-7355b45cec19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse file</value>
+      <webElementGuid>f731a4f6-f322-4f08-ad8e-6b35e6bce758</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-dialog-:r2e:']/div[2]/div[2]/div[20]/div[2]/div/span[2]</value>
+      <webElementGuid>42254631-8b8b-43ff-8f2e-2c9efc829c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attach File'])[1]/following::span[3]</value>
+      <webElementGuid>b825315b-db29-42ba-a8c5-646bd9d62dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum upload size: 25 MB'])[1]/preceding::span[1]</value>
+      <webElementGuid>3641b3a1-ff3d-46c2-be70-16b4407bf5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse file']/parent::*</value>
+      <webElementGuid>eee59ada-ac36-4a0a-8650-55b822bf9603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/div[2]/div/span[2]</value>
+      <webElementGuid>051d749c-1011-4100-aff6-9cceaad5389a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Browse file' or . = 'Browse file')]</value>
+      <webElementGuid>a1e2b00a-7220-4e92-ac39-1b7fad2ef986</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

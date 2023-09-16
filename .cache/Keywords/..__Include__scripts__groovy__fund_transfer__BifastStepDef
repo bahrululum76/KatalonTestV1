@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "keywordFileContentHash": "A6EF6E9A7EFDF82D2C662DD1FA33687D",
+=======
+  "keywordFileContentHash": "433E08B9B966FBBD1738215F0AE2ACD6",
+>>>>>>> 977ba4cf11bc61e29aa89188d3054d6c88a09197
+  "keywordClasses": [
+    {
+      "name": "fund_transfer.BifastStepDef",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

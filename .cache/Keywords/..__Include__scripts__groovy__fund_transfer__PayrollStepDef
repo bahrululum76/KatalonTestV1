@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DF6EC39F6A871ACDF9FFFB268CAE42F4",
+  "keywordClasses": [
+    {
+      "name": "fund_transfer.PayrollStepDef",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
